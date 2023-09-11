@@ -1,4 +1,4 @@
-package smallstudygrouplessonswhileloop;
+package SSG.smallstudygrouplessonswhileloop;
 
 public class WhileLoopQuestions1 {
     public static void main(String[] args) {

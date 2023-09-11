@@ -1,4 +1,4 @@
-package smallstudygrouplessonsArrays;
+package SSG.smallstudygrouplessonsArrays;
 
 public class ArraysQuestion4 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package smallstudygrouplessonsArrays;
+package SSG.smallstudygrouplessonsArrays;
 
 import java.util.Arrays;
 

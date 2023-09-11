@@ -1,4 +1,4 @@
-package smallstudygrouplessonswhileloop;
+package SSG.smallstudygrouplessonswhileloop;
 
 import java.util.Random;
 import java.util.Scanner;

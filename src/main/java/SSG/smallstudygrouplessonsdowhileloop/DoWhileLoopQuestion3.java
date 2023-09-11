@@ -1,4 +1,4 @@
-package smallstudygrouplessonsdowhileloop;
+package SSG.smallstudygrouplessonsdowhileloop;
 
 import java.util.Scanner;
 

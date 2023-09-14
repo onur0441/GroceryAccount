@@ -10,6 +10,8 @@ public class WhileLoopQuestions5 {
         int sayi = rnd.nextInt(100);
         int tahminsayisi = 0;
         int kullanicisayisi =-1;
+
+
         while (kullanicisayisi !=sayi){
             System.out.println("lütfen  [1-100]  arasi bir sayi giriniz ve tahmin hakkınız 5 dir");
             kullanicisayisi =input.nextInt();
@@ -33,6 +35,9 @@ public class WhileLoopQuestions5 {
 
 
                 }
+
+
+
 
 
 
